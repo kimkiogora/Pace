@@ -1,0 +1,3 @@
+Default datetime on insert
+===========================
+`ALTER TABLE  `table_name` CHANGE `column_name` DATETIME NOT NULL DEFAULT 0
